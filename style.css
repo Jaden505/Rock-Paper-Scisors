@@ -36,3 +36,9 @@ body {
   margin: auto;
   border: solid salmon;
 }
+
+.small_screen {
+  width: 50%;
+  border: 5px solid green;
+  background-color: #292836;
+}
