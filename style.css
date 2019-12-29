@@ -1,0 +1,38 @@
+.Header {
+  text-align: center;
+  background-color: grey;
+  margin: auto;
+  width: 70%;
+  border: 3px;
+  padding: 10px;
+}
+
+body {
+  background-color: #292836;
+  text-align: center;
+  color: white;
+}
+
+.rock {
+  width: auto;
+  height: 100px;
+}
+
+.paper {
+  width: auto;
+  height: 100px;
+}
+
+.scissors {
+  width: auto;
+  height: 100px;
+}
+
+.score {
+  text-align: center;
+  background-color: black;
+  padding: 50px;
+  width: 50%;
+  margin: auto;
+  border: solid salmon;
+}
